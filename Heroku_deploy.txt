@@ -34,5 +34,7 @@
 6. Then We push our code in heroku with this command  'git push heroku master', it'll get deployed in heroku( it'll take some time in deployment).
 
 7. After deployment is done. We get a deployed link at bottom, we just need to copy that link and paste in browser.
+
+8. -------------------------------
   
   
